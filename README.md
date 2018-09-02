@@ -11,5 +11,7 @@ npm i
 ```
 
 ## scripts
-### 
+```
+test
 npm run test
+```
