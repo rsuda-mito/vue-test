@@ -21,5 +21,8 @@ describe('Counter', () => {
     const button = wrapper.find('button')
     button.trigger('click')
     expect(wrapper.vm.count).toBe(1)
+    expect(wrapper.element).toMatchSnapshot()
   })
+
+  expect(wrapper.element).toMatchSnapshot()
 })

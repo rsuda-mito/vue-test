@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+<div>
+  <span
+    class="count"
+  >
+    0
+  </span>
+   
+  <button>
+    Increment
+  </button>
+</div>
+`;
+
+exports[`Counter button should increment the count 1`] = `
+<div>
+  <span
+    class="count"
+  >
+    1
+  </span>
+   
+  <button>
+    Increment
+  </button>
+</div>
+`;
