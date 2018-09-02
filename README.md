@@ -5,8 +5,10 @@ vue test utils
 node.js
 
 ## install
+```
 cd vue-test
 npm i
+```
 
 ## scripts
 ### 
